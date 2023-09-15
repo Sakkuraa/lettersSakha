@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lettersSakha/static/css/main.7cd5b20c.css",
+    "main.js": "/lettersSakha/static/js/main.dcf7c497.js",
+    "index.html": "/lettersSakha/index.html",
+    "main.7cd5b20c.css.map": "/lettersSakha/static/css/main.7cd5b20c.css.map",
+    "main.dcf7c497.js.map": "/lettersSakha/static/js/main.dcf7c497.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cd5b20c.css",
+    "static/js/main.dcf7c497.js"
+  ]
+}
